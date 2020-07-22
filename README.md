@@ -10,7 +10,6 @@ yarn install
 ### To Use
 ```
 - yarn start
-- Enter a valid Github profile name into the input field to display the Avatar, Name, and Company of that profile
 ```
 
 ### Technologies used
